@@ -24,5 +24,5 @@ app.post("/webhooks", (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Example server listening on port ${port}`)
+  console.log(`Hi to HackaTUM on port ${port}`)
 })
